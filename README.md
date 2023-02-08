@@ -1,0 +1,1 @@
+Semantic HTML Template for quick set up.
